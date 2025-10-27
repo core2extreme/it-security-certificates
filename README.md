@@ -6,6 +6,7 @@ Each section includes a brief description to help non-technical readers understa
 ---
 
 ## Security Blue Team Level 2 - BTL2
+<img width="680" height="680" alt="image" src="https://github.com/user-attachments/assets/1ce98d84-cea7-4489-aa99-ce8d40c7a328" />  
 **Issuer:** Security Blue Team  
 **Issued:** 2025  
 **Verified via:** [Credly](https://www.credly.com/badges/74edcd93-6a0d-47b8-aa9d-f96cd88853bc/public_url)  
@@ -16,6 +17,7 @@ Earners of the Blue Team Level 2 Certification have showcased their practical ab
 ---
 
 ## Security Blue Team Level 1 - BTL1  
+<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/71c3fffe-aedf-4357-8983-63e4517af1a6" />  
 **Issuer:** Security Blue Team  
 **Issued:** 2024  
 **Verified via:** [Credly](https://www.credly.com/badges/b0986088-6e44-48ff-bc5b-3f6a1ba101f1/public_url)  
