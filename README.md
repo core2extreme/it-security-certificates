@@ -6,7 +6,7 @@ Each section includes a brief description to help non-technical readers understa
 ---
 
 ## Security Blue Team Level 2 - BTL2
-<img width="170" height="170" alt="image" src="https://github.com/user-attachments/assets/1ce98d84-cea7-4489-aa99-ce8d40c7a328" />  
+<img width="140" height="140" alt="image" src="https://github.com/user-attachments/assets/1ce98d84-cea7-4489-aa99-ce8d40c7a328" />  
 
 
 **Issuer:** Security Blue Team  
@@ -19,7 +19,7 @@ Earners of the Blue Team Level 2 Certification have showcased their practical ab
 ---
 
 ## Security Blue Team Level 1 - BTL1  
-<img width="170" height="170" alt="image" src="https://github.com/user-attachments/assets/71c3fffe-aedf-4357-8983-63e4517af1a6" />  
+<img width="140" height="140" alt="image" src="https://github.com/user-attachments/assets/71c3fffe-aedf-4357-8983-63e4517af1a6" />  
 
 
 **Issuer:** Security Blue Team  
@@ -33,7 +33,7 @@ Earners of the Blue Team Level 1 Certification have showcased their practical ab
 ---
 
 ## Certified SOC Analyst  
-<img width="170" height="170" alt="image" src="https://github.com/user-attachments/assets/e6d6db9c-c08c-4ae3-b77e-ac9243f2123b" />  
+<img width="140" height="140" alt="image" src="https://github.com/user-attachments/assets/e6d6db9c-c08c-4ae3-b77e-ac9243f2123b" />  
 
 **Issuer:** EC-Council  
 **Issued:** 2023  
