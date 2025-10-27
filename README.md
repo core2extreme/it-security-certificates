@@ -7,18 +7,18 @@ Each section includes a brief description to help non-technical readers understa
 
 ## Security Blue Team Level 2 - BTL2
 **Issuer:** Security Blue Team  
-**Issued:** 2025
-**Verified via:** [Credly](https://www.credly.com/badges/74edcd93-6a0d-47b8-aa9d-f96cd88853bc/public_url)
+**Issued:** 2025  
+**Verified via:** [Credly](https://www.credly.com/badges/74edcd93-6a0d-47b8-aa9d-f96cd88853bc/public_url)  
 
 **Overview:**  
 Earners of the Blue Team Level 2 Certification have showcased their practical ability to defend networks and systems from cyber threats through technical and hands-on defensive cybersecurity training. They have knowledge and ability across 4 advanced security operations domains; Vulnerability Management, Malware Analysis, Advanced SIEM, and Threat Hunting.
 
 ---
 
-## Security Blue Team Level 1 - BTL1
-**Issuer:** Security Blue Team 
+## Security Blue Team Level 1 - BTL1  
+**Issuer:** Security Blue Team  
 **Issued:** 2024  
-**Verified via:** [Credly](https://www.credly.com/badges/b0986088-6e44-48ff-bc5b-3f6a1ba101f1/public_url)
+**Verified via:** [Credly](https://www.credly.com/badges/b0986088-6e44-48ff-bc5b-3f6a1ba101f1/public_url)  
 
 **Overview:**  
 Earners of the Blue Team Level 1 Certification have showcased their practical ability to defend networks and systems from cyber threats through technical and hands-on defensive cybersecurity training. They have knowledge and ability across 5 security operations domains which include Phishing Analysis, Digital Forensics, Threat Intelligence, SIEM, and Incident Response.
@@ -26,10 +26,10 @@ Earners of the Blue Team Level 1 Certification have showcased their practical ab
 
 ---
 
-## Certified SOC Analyst 
+## Certified SOC Analyst  
 **Issuer:** EC-Council  
 **Issued:** 2023  
-**Verified via:** [ASPEN](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=lVb4rYx4Os4SY9p+MO1SRjbfeOQR8t/4A8y701le4/c=)
+**Verified via:** [ASPEN](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=lVb4rYx4Os4SY9p+MO1SRjbfeOQR8t/4A8y701le4/c=)  
 
 **Overview:**  
 The Certified SOC Analyst has an in-depth understanding of various attack methodologies, to collaborating with the IRTs in case of an incident. A certified member has adequate knowledge to bring people, process and technology together and provide a comprehensive skill set to manage a robust security operation centre with enhanced incident detection and response capabilities.
