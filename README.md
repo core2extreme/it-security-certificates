@@ -33,6 +33,8 @@ Earners of the Blue Team Level 1 Certification have showcased their practical ab
 ---
 
 ## Certified SOC Analyst  
+<img width="170" height="170" alt="image" src="https://github.com/user-attachments/assets/e6d6db9c-c08c-4ae3-b77e-ac9243f2123b" />  
+
 **Issuer:** EC-Council  
 **Issued:** 2023  
 **Verified via:** [ASPEN](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=lVb4rYx4Os4SY9p+MO1SRjbfeOQR8t/4A8y701le4/c=)  
